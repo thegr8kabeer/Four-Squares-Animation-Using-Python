@@ -6,6 +6,12 @@ Install the the module by :
 ```
 pip install turtle
 ```
+This is a simple code to understand the basics of turtle module in Pyhon
+
+# Preview of the code
+
+![github](https://user-images.githubusercontent.com/64730390/86230937-35860a00-bbab-11ea-86c6-339c6e0fdab3.gif)
+
 Feel free to edit my code as Pablo Picasso is often quoted as saying:
 > “Good artists copy, great artists steal.”
 
