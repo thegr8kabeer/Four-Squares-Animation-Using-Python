@@ -18,4 +18,4 @@ Feel free to edit my code as Pablo Picasso is often quoted as saying:
 And I say :
 >"Good coders copy, great coders steal."
 
-Don't forget to follow me on instagram at https://instagram.com/thegr8kabeer/
+And don't forget to follow me on [Twitter](https://twitter.com/thegr8kabeer)
